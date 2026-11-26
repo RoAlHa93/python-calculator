@@ -17,6 +17,8 @@ Full disclosure: I've set up an LLM to play the role of a (patient) instructor i
 - Being able to set up projects such as this without too much assistance by an LLM
 
 # Progress
+
+Initial steps:
 - Downloaded Python
 - Downloaded PyCharm
 - Created an account on GitHub
@@ -25,3 +27,9 @@ Full disclosure: I've set up an LLM to play the role of a (patient) instructor i
 - Used the terminal to create a Git interface
 - Did the all too common "Hello World" thing and experimented with syntax
 - Created a README.md
+
+Concrete actions:
+- Learned what variables are and learned about associated naming conventions
+- Learned about variable reassignments
+- Learned about augmented assignments 
+- Basic arithmetics using variables
