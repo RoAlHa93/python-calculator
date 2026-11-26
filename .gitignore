@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# PyCharm configuration
+.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Personal Notes
+personal-notes.txt
